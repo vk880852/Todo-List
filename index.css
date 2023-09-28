@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.container
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: red;
+}
+.input
+{
+    padding:2px 2px 2px 2px;
+    margin:45px 0px 0px -145px;
+}
+#heading
+{
+    margin:0px 0px 0px 0px;
+}
